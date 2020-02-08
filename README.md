@@ -1,2 +1,4 @@
 # massage-web
-website for massages
+
+## Goal of the project
+To create a simple website for massages.
